@@ -20,6 +20,8 @@ doc/api/
 *.js.deps
 *.js.map
 
+# CUSTOM
 __pycache__/
+.DS_Store
 # API keys
 config.py
