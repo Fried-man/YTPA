@@ -21,3 +21,5 @@ doc/api/
 *.js.map
 
 __pycache__/
+# API keys
+config.py
